@@ -1,0 +1,25 @@
+{
+  "name": "predictionoverlay",
+  "version": "1.0.0",
+  "description": "Bring your Twitch predictions to the main screen with PredictionOverlay!",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "npx tsc && node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh0ckdotlive/PredictionOverlay.git"
+  },
+  "author": "sh0ckR6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sh0ckdotlive/PredictionOverlay/issues"
+  },
+  "homepage": "https://github.com/sh0ckdotlive/PredictionOverlay#readme",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.10"
+  }
+}
